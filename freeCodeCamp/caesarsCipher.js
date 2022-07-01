@@ -1,3 +1,5 @@
+//b-knd(jingru) on 01 July 2022
+
 function rot13(str) {
   //split the string into an array of characters
   let splittedString = str.split("");
