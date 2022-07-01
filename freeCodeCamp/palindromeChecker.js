@@ -1,3 +1,5 @@
+//b-knd(jingru) on 01 July 2022
+
 function palindrome(str) {
   //remove spaces, special characters and change string to all lowercases to make it case insensitive
   str = str.trim().toLowerCase().replaceAll(/[^a-zA-Z0-9]/ig, "");
