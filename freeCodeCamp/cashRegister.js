@@ -1,3 +1,5 @@
+//b-knd (jingru) on 01 July 2022
+
 //changing values to cents to overcome the floating point number precision error
 const map = {"PENNY": 1,
              "NICKEL": 5,
