@@ -1,3 +1,5 @@
+//b-knd (jingru) on 01 July 2022
+
 function telephoneCheck(str) {
 //use the concept of regex expression matching to validate telephone number
   if(/^(1\s)?\d{3}\-\d{3}\-\d{4}$/.test(str)){
