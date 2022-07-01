@@ -1,4 +1,5 @@
 # Curriculum
+This repository contains some of my solutions for freeCodeCamp final projects for various curriculum.
 1. [JavaScript Algorithms and Data Structures](#javascript-algorithms-and-data-structures)
 
 ## JavaScript Algorithms and Data Structures
