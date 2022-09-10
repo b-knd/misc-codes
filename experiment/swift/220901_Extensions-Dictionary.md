@@ -39,7 +39,7 @@
 
 **Challenge**
 
-![](../media/Screen%20Shot%202022-09-01%20at%209.43.37%20AM.png)
+![](../../media/Screen%20Shot%202022-09-01%20at%209.43.37%20AM.png)
 
 **Codes**
 
