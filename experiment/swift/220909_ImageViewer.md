@@ -28,6 +28,7 @@ class ViewController: UIViewController {
         tapGestureRecognizer.numberOfTouchesRequired = 1
         imageView.addGestureRecognizer(tapGestureRecognizer)
         
+        //double tap recognizer
         let tapGestureRecognizer2 = UITapGestureRecognizer(target: self, action: #selector(handleTapRev(_:)))
         tapGestureRecognizer2.numberOfTapsRequired = 2
         tapGestureRecognizer2.numberOfTouchesRequired = 2
@@ -42,6 +43,7 @@ class ViewController: UIViewController {
         imageView.image = UIImage(named: images[imageNo])
     }
     
+    //double tap handle function
     @objc func handleTapRev(_ sender: UITapGestureRecognizer) {
         imageNo -= 1
         if imageNo == -1 {
