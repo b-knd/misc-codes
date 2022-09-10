@@ -8,8 +8,6 @@
 //  ViewController.swift
 //  ImageViewer
 //
-//  Created by Craig Grummitt on 22/04/2016.
-//  Copyright © 2016 Craig Grummitt. All rights reserved.
 //
 
 import UIKit
